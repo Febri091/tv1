@@ -324,5 +324,5 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/j6wS92Y/cebeies.png",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-#EXTINF:-1 group-title="SERVER BONUS" tvg-logo="https://i.ibb.co/VJZqdFc/images-9.png",ASTRO CERIA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VJZqdFc/images-9.png",ASTRO CERIA
 http://urtv.cc:80/kl570/kl570/6715
