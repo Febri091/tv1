@@ -274,6 +274,6 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/K7tm2ZW/human-tv.png", HUNAN'TV
 https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpdn
 #EXTINF:-1 tvg-id="Galaxy.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small1.png?v=2.0.0.13",Galaxy
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=galaxy&bandwidth=default&sync=0
+https://lnk.ec/galaxy?shareext.ts
 #EXTINF:-1 tvg-id="GalaxyPremium.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png",Galaxy Premium
-https://usee.galleryiptv.my.id/TVONLINEMY/chunklist.m3u8?id=galaxypremium&bandwidth=default&sync=0
+https://lnk.ec/GALAXYPREM?shareext.ts
