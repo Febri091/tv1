@@ -381,7 +381,7 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/CsFpFYD/Alquran.png",AL-QUR'AN AL-KAREEM
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="RELEGIUS",TV-AlHijrah
+#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="RELIGIUS",TV-AlHijrah
 http://iptv.tvmalaysia.cc:80/321456/321456/6834
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/NFVxcf6/life.png",LIFE
@@ -401,7 +401,7 @@ MUSIC
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="maleo.id" group-title="MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1  tvg-id="popmusik.id" group-title="Music" tvg-logo="https://i.imgur.com/1lRbGMf.png",POP MUSIK
+#EXTINF:-1  tvg-id="popmusik.id" group-title="MUSIC" tvg-logo="https://i.imgur.com/1lRbGMf.png",POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream/chunklist_w251378293.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="MUSIC",T Musik(cubmu)
 https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
@@ -497,19 +497,19 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://lnk.ec/waku2?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="KNOWLEDGE",Arirang(cubmu)
 https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
-#EXTINF:-1 group-title="TV KNOWLEDGE", FAILARMY
+#EXTINF:-1 group-title="KNOWLEDGE", FAILARMY
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-id="love.nature.my" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="Entertainment", Love Nature
+#EXTINF: -1 tvg-id="love.nature.my" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="KNOWLEDGE", Love Nature
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065971
-#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge",NASA TV
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png" group-title="Knowledge" , The Design Network
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png" group-title="KNOWLEDGE" , The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="Knowledge" , Inwild
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="KNOWLEDGE", Inwild
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="Knowledge" , Inwonder
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="KNOWLEDGE" , Inwonder
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" group-title="Knowledge" , Introuble
+#EXTINF:-1 tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png" group-title="KNOWLEDGE" , Introuble
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
 
