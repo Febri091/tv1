@@ -66,6 +66,8 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wFa6E97z_6ct1wyr_HbZ72Ua9BQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="INDONESIA", Nusantara TV
 https://teveMobile.us.to/sc/start.m3u8?id=7432
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="INDONESIA", Nusantara TV 
+https://v6.siar.us/nusantaratv/live/chunks.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/hs16Zzv/berita-satu.png",BERITA SATU-PREMIUM
@@ -193,14 +195,6 @@ https://on-load.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FFg7TYxm/thrill.png" group-title="MOVIES",Thrill
 https://on-load.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/8kmQzGa.png",Blue Ant Extreme
-http://139.99.71.104:8888/live/blink15/eiyengzfvy/37452.ts
-#EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/fKNAva5.png",Rock Entertainment
-http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37451.ts
-
-#EXTINF:-1  tvg-id="ext" group-title="MOVIES" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
-http://rr1.dens.tv/h/h15/01.m3u8
-
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_tvn_small.png", TVN
@@ -215,9 +209,6 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_sone_small1.png", S-ONE
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_kplus_small1.png", K +
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ShowCase Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png" group-title="MOVIES",ShowCase Movies
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/240
@@ -441,6 +432,14 @@ https://on-load.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jjFzdLFB/kix.jpg" group-title="ENTERTAIMENT",KIX
 https://on-load.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:-1  tvg-id="ext" group-title="ENTERTAIMENT" tvg-logo="https://i.imgur.com/8kmQzGa.png",Blue Ant Extreme
+http://139.99.71.104:8888/live/blink15/eiyengzfvy/37452.ts
+#EXTINF:-1  tvg-id="ext" group-title="ENTERTAIMENT" tvg-logo="https://i.imgur.com/fKNAva5.png",Rock Entertainment
+http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37451.ts
+
+#EXTINF:-1  tvg-id="ext" group-title="ENTERTAIMENT" tvg-logo="https://i.imgur.com/ieudr87.png",Rock Extreme
+http://rr1.dens.tv/h/h15/01.m3u8
+
 #EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="ENTERTAIMENT",IMC 
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/206
  
@@ -461,6 +460,12 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 
 #EXTINF: -1 tvg-name="MY - KBS World HD" tvg-logo="https://bit.ly/3uVQT60" group-title="ENTERTAIMENT",KBS World HD
 http://139.99.71.104:8888/live/blink10/afgwev4lhw/37369.ts
+
+#EXTINF: -1 group-title = "ENTERTAIMENT" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_kplus_small1.png", K +
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+
+#EXTINF: -1 group-title = "ENTERTAIMENT" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png", WAKU WAKU JAPAN
+https://lnk.ec/waku2?shareext.ts
 
 #EXTINF: -1 tvg-name="MY - Oh!K HD" tvg-logo="https://bit.ly/3w4mW4W" group-title="ENTERTAIMENT",Oh!K HD
 http://139.99.71.104:8888/live/blink12/9x21w1sniq/37371.ts
@@ -571,9 +576,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF: -1 group-title = "KNOWLEDGE" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png", WAKU WAKU JAPAN
-https://lnk.ec/waku2?shareext.ts
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GVGesVr.png?v=1.0.0.1" group-title="KNOWLEDGE" tvg-id="Arirang" tvg-name="Arirang", Arirang
 https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
 
@@ -599,13 +601,13 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
 TV SPORT
-#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 1" tvg-logo="https://i.postimg.cc/y6mk0694/Champions-1.png" group-title="SPORTS", CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 1" tvg-logo="https://i.postimg.cc/y6mk0694/Champions-1.png" group-title="TV SPORT", CHAMPIONS TV 1
 http://gumisasak-vision.online/Live/ru/v.m3u8?id=championstv1
-#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 2" tvg-logo="https://i.postimg.cc/HsrRfntF/Champions-2.png" group-title="SPORTS", CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 2" tvg-logo="https://i.postimg.cc/HsrRfntF/Champions-2.png" group-title="TV SPORT", CHAMPIONS TV 2
 http://gumisasak-vision.online/Live/ru/v.m3u8?id=championstv2
-#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 3" tvg-logo="https://i.postimg.cc/sxfCWr5T/Champions-3.png" group-title="SPORTS", CHAMPIONS TV 3
+#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 3" tvg-logo="https://i.postimg.cc/sxfCWr5T/Champions-3.png" group-title="TV SPORT", CHAMPIONS TV 3
 http://gumisasak-vision.online/Live/ru/v.m3u8?id=championstv3
-#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 4" tvg-logo="https://i.postimg.cc/kG69KjmM/Champions-4.png" group-title="SPORTS", CHAMPIONS TV 4
+#EXTINF:-1 tvg-id="didik_hans" tvg-name="CHAMPIONS TV 4" tvg-logo="https://i.postimg.cc/kG69KjmM/Champions-4.png" group-title="TV SPORT", CHAMPIONS TV 4
 https://cahsemarang.000webhostapp.com/Playlist/Champion4.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="TV SPORT",Usee Sport 1
