@@ -334,6 +334,9 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/rQVGXRc/tv-9.png",TV 9
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGIUS",AHSAN TV
+#http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+https://h1.intechmedia.net/intech/ch4.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/HCD7PYs/tv-muhamadiyah.png",TV-MU
@@ -366,7 +369,11 @@ https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKaree
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tl7ePSI.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Ajwa TV", Ajwa TV
-https://bit.ly/9e5a1f8dff8e258?kano.m3u8
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGIUS",AL-BAHJAH TV
+#https://e1.siar.us/albahjahtv/live/playlist.m3u8
+https://nin.siar.us/albahjahtv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mQrJsiF.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Rodja TV", Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
@@ -401,7 +408,7 @@ MUSIC
 #EXTINF:-1  tvg-id="maleo.id" group-title="MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="MUSIC" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="Nasional", MUSICA
+#EXTINF:-1 tvg-id="teveMobile" tvg-name="MUSIC" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="MUSIC", MUSICA
 https://tevemobile.uk.to/sc/start.m3u8?id=7619
 
 #EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="MUSIC",Citra Dangdut
@@ -470,7 +477,7 @@ http://rr1.dens.tv/h/h15/01.m3u8
 https://seulangatv-iptv.000webhostapp.com/imc.m3u8
  
 #EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="ENTERTAIMENT",Bioskop Indonesia
-http://bonev2.xyz/playlist/usee-bioskopindonesia-new-bonetv.m3u8
+https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="ENTERTAIMENT",DIGIONE MAXSTREAM
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
@@ -478,6 +485,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4bbMBx1/logo-hiindo-big1.png" group-title="ENTERTAIMENT",Hi indo!
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+
+#EXTINF:-1  tvg-logo="" group-title="ENTERTAIMENT",RANS ENT
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="ENTERTAIMENT",Eat&GO [Usee]
 #https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==eatgo&b=14&c=eatgo
@@ -755,13 +765,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",Unifi Sport2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:1 tvg-id="" tvg-language="TV SPORT" tvg-logo="https://i.imgur.com/RAX76x3.png" group-title="Kosovo",K Sport 1
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RAX76x3.png" group-title="TV SPORT",K Sport 1
 http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="TV SPORT" tvg-logo="https://i.imgur.com/gf6TsVf.png" group-title="Kosovo",K Sport 2
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gf6TsVf.png" group-title="TV SPORT",K Sport 2
 http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="TV SPORT" tvg-logo="https://i.imgur.com/IgE6OAT.png" group-title="Kosovo",K Sport 3
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IgE6OAT.png" group-title="TV SPORT",K Sport 3
 http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="TV SPORT" tvg-logo="https://i.imgur.com/5sOx4dh.png" group-title="Kosovo",K Sport 4
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/5sOx4dh.png" group-title="TV SPORT",K Sport 4
 http://93.157.62.180/KSport4/index.m3u8
 
 #EXTINF:-1 group-title="TV SPORT", ASTRO ARENA
