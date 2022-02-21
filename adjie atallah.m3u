@@ -258,6 +258,11 @@ KIDS
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/VJZqdFc/images-9.png",ASTRO CERIA
 http://iptv.tvmalaysia.cc:80/live/109789/109789/6715.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/wBXZTWD/kids.png",KIDS
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1 tvg-logo="TEST" group-title="KIDS",HOREE
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=horee&bandwidth=default&sync=0
 
@@ -272,17 +277,23 @@ http://rr.dens.tv/h/h191/index.m3u8
 
 #EXTINF:-1 tvg-id="spacetoonplus" tvg-logo="https://i.postimg.cc/k5DFZhKZ/SPACETOON.png" group-title="KIDS",SPACETOON ID
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/x1vWs6y/disneyjunior.png", DISNEY JUNIOR
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/466
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/712ShbK/besmrt.png",BE-SMART
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/mXVz2Bw/DISNY-CHANNEL.png", DISNEY CHANEL
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/465
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5TnVKr4/animax.png",ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="KIDS",ANIPLUS
+https://seulangatv-iptv.000webhostapp.com/aniplus.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5knjppP/miaomi.png",MIAO-MI
+https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-EXTINF:-1 tvg-id="" tvg-name="US_HD:Disney XD" tvg-logo="http://logoiptv.dynns.com/iptv/DISNEY%20xD.png" group-title="USA",US_HD:Disney XD
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55929.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/kBCJq4Y/cartoon-network.png",CARTOON NETWORK
@@ -296,6 +307,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5KqDCjB/BOOMERANG.png",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/x1vWs6y/disneyjunior.png", DISNEY JUNIOR
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/466
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/mXVz2Bw/DISNY-CHANNEL.png", DISNEY CHANEL
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/465
+
+EXTINF:-1 tvg-id="" tvg-name="US_HD:Disney XD" tvg-logo="http://logoiptv.dynns.com/iptv/DISNEY%20xD.png" group-title="USA",US_HD:Disney XD
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55929.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/Lvt1WK9/Nickelodeon.png",NICKELODEON
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
@@ -303,25 +324,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/sRWGVs8/nicjr2.png",NICKJR
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/712ShbK/besmrt.png",BE-SMART
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5TnVKr4/animax.png",ANIMAX
-https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="KIDS",ANIPLUS
-https://seulangatv-iptv.000webhostapp.com/aniplus.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/5knjppP/miaomi.png",MIAO-MI
-https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/wBXZTWD/kids.png",KIDS
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/j6wS92Y/cebeies.png",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
@@ -337,37 +340,9 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/rQVGXRc/tv-9.png",TV 9
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGIUS",AHSAN TV
-#http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-https://h1.intechmedia.net/intech/ch4.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/HCD7PYs/tv-muhamadiyah.png",TV-MU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/Fx2WSBZ/tawaf.png",TAWAF TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/CsFpFYD/Alquran.png",AL-QUR'AN AL-KAREEM
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsNXtthD/NABAWI-TV.png" group-title="RELIGIUS",NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png" group-title="RELIGIUS",NIAGA TV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="RELIGIUS",TV-AlHijrah
-http://iptv.tvmalaysia.cc:80/321456/321456/6834
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="AlQuran Kareem" tvg-name="AlQuran Kareem", AlQuran Kareem
-https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -378,15 +353,37 @@ https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 #https://e1.siar.us/albahjahtv/live/playlist.m3u8
 https://nin.siar.us/albahjahtv/live/chunks.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/HCD7PYs/tv-muhamadiyah.png",TV-MU
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mQrJsiF.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Rodja TV", Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6FcTok4.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Sunnah TV", Sunnah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGIUS",AHSAN TV
+#http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+https://h1.intechmedia.net/intech/ch4.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/nclyzsj.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Iqraa-Tv", Iqraa-Tv
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/Fx2WSBZ/tawaf.png",TAWAF TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="RELIGIUS" tvg-logo="https://i.ibb.co/CsFpFYD/Alquran.png",AL-QUR'AN AL-KAREEM
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Pp6TDd2/NIAGA-TV.png" group-title="RELIGIUS",NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="RELIGIUS",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/321456/321456/6834
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vUHoMzT.png?v=1.0.0.1" group-title="RELIGIUS" tvg-id="Makkah Live", Makkah Live
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
@@ -807,8 +804,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="TV SPORT", ABU DHABI SPORTS 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="TV SPORT", CANAL 11
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="TV SPORT", DUBAI SPORTS 1
@@ -819,6 +814,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="TV SPORT", EDGE SPORT
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 group-title="TV SPORT", CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1 group-title="TV SPORT", FIGHTBOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -842,43 +839,43 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 
 BEIN SPORT
 EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="BEIN SPORT",AR: beIN Sports 1 HD
+#EXTINF:-1,beIN Sport Premium 01 (240P)
 http://red.ipfox.org:8080/1234/12345678/31603
-#EXTINF:-1 tvg-ID="beIN Sports 2 ARB" tvg-name="AR: beIN Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="BEIN SPORT",AR: beIN Sports 2 HD
+#EXTINF:-1,beIN Sport Premium 02 (240P)
 http://red.ipfox.org:8080/1234/12345678/31602
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 HD
+#EXTINF:-1,beIN Sport Premium 03 (240P)
 http://red.ipfox.org:8080/1234/12345678/31601
 #EXTINF:-1,beIN Sport 01 (240P)
 http://red.ipfox.org:8080/1234/12345678/31600
 #EXTINF:-1,beIN Sport 02 (240P)
 http://red.ipfox.org:8080/1234/12345678/31599
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 HD
+#EXTINF:-1,beIN Sport 03 (240P)
 http://red.ipfox.org:8080/1234/12345678/31598
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="BEIN SPORT",AR: beIN Sports 4 HD
+#EXTINF:-1,beIN Sport 04 (240P)
 http://red.ipfox.org:8080/1234/12345678/31597
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEIN SPORT",AR: beIN Sports 5 HD
+#EXTINF:-1,beIN Sport 05 (240P)
 http://red.ipfox.org:8080/1234/12345678/31596
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT",AR: beIN Sports 6 HD
+#EXTINF:-1,beIN Sport 06 (240P)
 http://red.ipfox.org:8080/1234/12345678/31595
-#EXTINF:-1,beIN Sport 07 (240P)" group-title="BEIN SPORT",AR: beIN Sports 
+#EXTINF:-1,beIN Sport 07 (240P)
 http://red.ipfox.org:8080/1234/12345678/31594
-#EXTINF:-1,beIN Sport Premium 01 (360P)" group-title="BEIN SPORT",beIN Sport Premium 01 (360P)
+#EXTINF:-1,beIN Sport Premium 01 (360P)
 http://red.ipfox.org:8080/1234/12345678/31593
-#EXTINF:-1,beIN Sport Premium 02 (360P)" group-title="BEIN SPORT",beIN Sport Premium 02 (360P)
+#EXTINF:-1,beIN Sport Premium 02 (360P)
 http://red.ipfox.org:8080/1234/12345678/31592
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 HD
+#EXTINF:-1,beIN Sport Premium 03 (360P)
 http://red.ipfox.org:8080/1234/12345678/31591
-#EXTINF:-1,beIN Sport 01 (360P)" group-title="BEIN SPORT",AR: beIN Sports 1
+#EXTINF:-1,beIN Sport 01 (360P)
 http://red.ipfox.org:8080/1234/12345678/31588
-#EXTINF:-1,beIN Sport 02 (360P)" group-title="BEIN SPORT",AR: beIN Sports 2
+#EXTINF:-1,beIN Sport 02 (360P)
 http://red.ipfox.org:8080/1234/12345678/31587
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 (360P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 (360P)
+#EXTINF:-1,beIN Sport 03 (360P)
 http://red.ipfox.org:8080/1234/12345678/31586
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 (360P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="BEIN SPORT",AR: beIN Sports 4 (360P)
+#EXTINF:-1,beIN Sport 04 (360P)
 http://red.ipfox.org:8080/1234/12345678/31585
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 (360P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEIN SPORT",AR: beIN Sports 5 (360P)
+#EXTINF:-1,beIN Sport 05 (360P)
 http://red.ipfox.org:8080/1234/12345678/31584
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 (360P)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT",AR: beIN Sports 6 (360P)
+#EXTINF:-1,beIN Sport 06 (360P)
 http://red.ipfox.org:8080/1234/12345678/31583
 #EXTINF:-1,beIN Sport 07 (360P)
 http://red.ipfox.org:8080/1234/12345678/31582
@@ -892,13 +889,13 @@ http://red.ipfox.org:8080/1234/12345678/31546
 http://red.ipfox.org:8080/1234/12345678/31555
 #EXTINF:-1,beIN Sport 02 (480P)
 http://red.ipfox.org:8080/1234/12345678/31554
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 (480P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 (480P)
+#EXTINF:-1,beIN Sport 03 (480P)
 http://red.ipfox.org:8080/1234/12345678/31553
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 (480P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="BEIN SPORT",AR: beIN Sports 4 (480P)
+#EXTINF:-1,beIN Sport 04 (480P)
 http://red.ipfox.org:8080/1234/12345678/31552
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 (480P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEIN SPORT",AR: beIN Sports 5 (480P)
+#EXTINF:-1,beIN Sport 05 (480P)
 http://red.ipfox.org:8080/1234/12345678/31551
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 (480P)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT",AR: beIN Sports 6 (480P)
+#EXTINF:-1,beIN Sport 06 (480P)
 http://red.ipfox.org:8080/1234/12345678/31550
 #EXTINF:-1,beIN Sport 07 (480P)
 http://red.ipfox.org:8080/1234/12345678/31549
@@ -912,13 +909,13 @@ http://red.ipfox.org:8080/1234/12345678/31527
 http://red.ipfox.org:8080/1234/12345678/31536
 #EXTINF:-1,beIN Sport 02 (720P)
 http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 (720P)
+#EXTINF:-1,beIN Sport 03 (720P)
 http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="BEIN SPORT",AR: beIN Sports 4 (720P)
+#EXTINF:-1,beIN Sport 04 (720P)
 http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEIN SPORT",AR: beIN Sports 5 (720P)
+#EXTINF:-1,beIN Sport 05 (720P)
 http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 (720P)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT",AR: beIN Sports 6 (720P)
+#EXTINF:-1,beIN Sport 06 (720P)
 http://red.ipfox.org:8080/1234/12345678/31531
 #EXTINF:-1,beIN Sport 07 (720P)
 http://red.ipfox.org:8080/1234/12345678/31530
@@ -932,13 +929,13 @@ http://red.ipfox.org:8080/1234/12345678/31496
 http://red.ipfox.org:8080/1234/12345678/31493
 #EXTINF:-1,beIN Sport 02 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 3 (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="BEIN SPORT",AR: beIN Sports 3 (1080P)
+#EXTINF:-1,beIN Sport 03 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:-1 tvg-ID="" tvg-name="AR: beIN Sports 4 (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="BEIN SPORT",AR: beIN Sports 4 (1080P)
+#EXTINF:-1,beIN Sport 04 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:-1 tvg-ID="beIN Sports 5 ARB" tvg-name="AR: beIN Sports 5 (1080P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEIN SPORT",AR: beIN Sports 5 (1080P)
+#EXTINF:-1,beIN Sport 05 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:-1 tvg-ID="beIN Sports 6 ARB" tvg-name="AR: beIN Sports 6 (1080P)" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN SPORT",AR: beIN Sports 6 (1080P)
+#EXTINF:-1,beIN Sport 06 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1,beIN Sport 07 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31487
