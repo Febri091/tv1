@@ -465,11 +465,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/X7mFyNc/visionprime.png",VISION PRIME-PREMIUM
+#EXTINF: -1tvg-ID group-title = "ENTERTAIMENT" tvg-logo = "https://i.ibb.co/X7mFyNc/visionprime.png",VISION PRIME-PREMIUM
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/pwtf3Cy/oktv.png",OK-TV-PREMIUM
+#EXTINF: -1tvg-ID group-title = "ENTERTAIMENT" tvg-logo = "https://i.ibb.co/pwtf3Cy/oktv.png",OK-TV-PREMIUM
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="ENTERTAIMENT",Dunia Lain
 http://bonev2.xyz/playlist/usee-dunialain-new-bonetv.m3u8
