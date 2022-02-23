@@ -2,36 +2,20 @@
 #EXTM3U
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/gVR4RsF/tvri.png",TVRI-PREMIUM
-https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/fqv4pDb/Indosiar.png",INDOSIAR-PREMIUM
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/xFs6k31/SCTV.png",SCTV-PREMIUM
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/jG6DNXz/RCTV.png",RCTI-PREMIUM
 https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/xFs6k31/SCTV.png",SCTV-PREMIUM
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/fqv4pDb/Indosiar.png",INDOSIAR-PREMIUM
+https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/M8ttCDK/mnc.png",MNC TV-PREMIUM
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png",GTV-PREMIUM
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/X7mFyNc/visionprime.png",VISION PRIME-PREMIUM
-https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/pwtf3Cy/oktv.png",OK-TV-PREMIUM
-https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/dk3tYJq/antv.png",ANTV-PREMIUM
@@ -39,11 +23,22 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/WGNNgRp/trastv.png",TRANS'TV-PREMIUM
-https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/0cVJNjp/trans7.png",TRANS'7-PREMIUM
-https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png",GTV-PREMIUM
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/d7LqQMR/RTV.png",RTV-PREMIUM
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/Vj9mSHv/nettv.png",NET'TV-PREMIUM
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/ZX31RcM/tvone.png",TV'ONE-PREMIUM
@@ -58,12 +53,9 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 http://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/d7LqQMR/RTV.png",RTV-PREMIUM
-https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/gVR4RsF/tvri.png",TVRI-PREMIUM
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
-#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/Vj9mSHv/nettv.png",NET'TV-PREMIUM
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="INDONESIA", Nusantara TV 
 https://v6.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="INDONESIA",Garuda TV
@@ -76,7 +68,6 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/GH0nWdK/daiitv.png",DAII-PREMIUM
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/6g3z79S/inews.png",iNewS-PREMIUM
@@ -222,7 +213,7 @@ http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/240
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.MACAN" tvg-name="Paramount" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="MOVIES",Paramount
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/161
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -238,6 +229,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 group-title = "MOVIES" tvg-logo = "https://i.ibb.co/9ZQ1jsp/zebioskop.png", ZEEBIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png",MyCinema Family
+https://m3u-editor.com/serve/e31a08b0-76ac-11ec-b78b-61a3efa6d221/477934852
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1xVBBqG.png?v=1.0.0.1" group-title="MOVIES" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
@@ -469,6 +463,14 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4bbMBx1/logo-hiindo-big1.png" group-title="ENTERTAIMENT",Hi indo!
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/X7mFyNc/visionprime.png",VISION PRIME-PREMIUM
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/pwtf3Cy/oktv.png",OK-TV-PREMIUM
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="ENTERTAIMENT",Dunia Lain
 http://bonev2.xyz/playlist/usee-dunialain-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="insert" tvg-logo="https://i.postimg.cc/CLcCTscZ/logo-insert-small1.png" group-title="ENTERTAIMENT",Insert
@@ -548,10 +550,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #EXTINF:-1 tvg-id="eatgo" tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="ENTERTAIMENT",Eat&GO [Usee]
-#https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==eatgo&b=14&c=eatgo
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/264765
-#https://radenroro.net/RHS/homempd.m3u8?channel=eatgo
-#http://bonev2.xyz/playlist/usee-eatgo-new-bonetv.m3u8
+https://cubmu.superzap.xyz:8279/eatgo/playlist.m3u8 
 
 KNOWLEDGE
 #EXTM3U
@@ -1060,107 +1059,3 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6769
 http://iptv.tvmalaysia.cc:80/321456/321456/8836
 #EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="MALAYSIA",BERNAMA
 http://iptv.tvmalaysia.cc:80/321456/321456/7190
-
-RADIO
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="I-Radio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NPkM5YqQkq503ZayV0nkVvqbOw0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="Radio", I-Radio
-https://tevemobile.uk.to/sc/start.m3u8?id=7057
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Prambors" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/93kB65Q8SF3S0FStf7ktN6M7flQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="Radio", Prambors
-https://tevemobile.uk.to/sc/start.m3u8?id=7004
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Gen FM" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5tzvmrQdbA-SXIFqZKos38Nipi0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg" group-title="Radio", Gen FM
-https://tevemobile.uk.to/sc/start.m3u8?id=7443
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Ardan" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="Radio", Ardan
-https://tevemobile.uk.to/sc/start.m3u8?id=7184
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Elshinta" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="Radio", Elshinta
-https://tevemobile.uk.to/sc/start.m3u8?id=7166
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Hard Rock" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="Radio", Hard Rock
-https://tevemobile.uk.to/sc/start.m3u8?id=7053
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Delta" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="Radio", Delta
-https://tevemobile.uk.to/sc/start.m3u8?id=7092
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Indika" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GRs-gJKLOZprtR2dw0lO-qN_mlk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8024/indika-radio-329af1.jpg" group-title="Radio", Indika
-https://tevemobile.uk.to/sc/start.m3u8?id=8024
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="MGTRadio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="Radio", MGTRadio
-https://tevemobile.uk.to/sc/start.m3u8?id=7188
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Kis" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Asqq8zinNlcP3iv4vzyqggBKOTg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg" group-title="Radio", Kis
-https://tevemobile.uk.to/sc/start.m3u8?id=7445
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Trax" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tE3G1jvh_Ujp_Tqxuk-vRPxb1-8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="Radio", Trax
-https://tevemobile.uk.to/sc/start.m3u8?id=7055
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Cosmopolitan" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/d1KbG3f4kAkm9rZLYySgSITAow0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="Radio", Cosmopolitan
-https://tevemobile.uk.to/sc/start.m3u8?id=7056
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Jak" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/91QfIyfRjUu0J47RkjvKS-mEZyk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" group-title="Radio", Jak
-https://tevemobile.uk.to/sc/start.m3u8?id=7449
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Brava" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LitEXxnoBCWSW30AOid09ISm3lg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="Radio", Brava
-https://tevemobile.uk.to/sc/start.m3u8?id=7054
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Cakra" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="Radio", Cakra
-https://tevemobile.uk.to/sc/start.m3u8?id=7297
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Bahana" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="Radio", Bahana
-https://tevemobile.uk.to/sc/start.m3u8?id=7091
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Paramuda" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="Radio", Paramuda
-https://tevemobile.uk.to/sc/start.m3u8?id=7685
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Mustang" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Z6B548JflIkzMHD3wLEAqI_PmIc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg" group-title="Radio", Mustang
-https://tevemobile.uk.to/sc/start.m3u8?id=7447
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="JIZ" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sRxNoord2ta_n9tBIqjiNRIj7dY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7792/jiz-fm-ded2a5.jpg" group-title="Radio", JIZ
-https://tevemobile.uk.to/sc/start.m3u8?id=7792
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Swaragama" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="Radio", Swaragama
-https://tevemobile.uk.to/sc/start.m3u8?id=7248
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Female" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Yt8GqA5gxaFe-Q504oVwnIfccTQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="Radio", Female
-https://tevemobile.uk.to/sc/start.m3u8?id=7130
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Dahlia" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="Radio", Dahlia
-https://tevemobile.uk.to/sc/start.m3u8?id=7242
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Gen" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RFt89zrHdKxYH8fcSCfIHpwna3g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" group-title="Radio", Gen
-https://tevemobile.uk.to/sc/start.m3u8?id=7446
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Most" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5iL8kqeHixvC72L6Orlk61f5Mc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg" group-title="Radio", Most
-https://tevemobile.uk.to/sc/start.m3u8?id=7450
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Hot" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F8VToo3k3vyX-fjzIFphMh9izow=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7448/hot-fm-778737.jpg" group-title="Radio", Hot
-https://tevemobile.uk.to/sc/start.m3u8?id=7448
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Rama" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mWKsYcW1t6axKfZhBeydNRLYoPk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg" group-title="Radio", Rama
-https://tevemobile.uk.to/sc/start.m3u8?id=7684
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="GAJAHMADA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="Radio", GAJAHMADA
-https://tevemobile.uk.to/sc/start.m3u8?id=7284
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="SWARA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xjEaP8UM1tlal5tY2NOcdyyiJv0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="Radio", SWARA
-https://tevemobile.uk.to/sc/start.m3u8?id=7283
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Geronimo" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GB6NrbADuqqB-9eAQCNcy6IVd-s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="Radio", Geronimo
-https://tevemobile.uk.to/sc/start.m3u8?id=7216
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Imelda" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jPSwS6rN9I1X9BqghRJTWN9Ta7k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="Radio", Imelda
-https://tevemobile.uk.to/sc/start.m3u8?id=7281
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="Sushi" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgJ6b4lRGVt24lH4j7qS98CKL4U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="Radio", Sushi
-https://tevemobile.uk.to/sc/start.m3u8?id=7218
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="ELGANGGA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9YyEdrmwSbk99DX70-U1A1dEJWw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="Radio", ELGANGGA
-https://tevemobile.uk.to/sc/start.m3u8?id=7169
-
-#EXTINF:-1 tvg-id="teveMobile" tvg-name="ELMITRA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dLo75Dmfm5-P51eUWBxOiz7PNHs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="Radio", ELMITRA
-https://tevemobile.uk.to/sc/start.m3u8?id=7170
-
-
-
