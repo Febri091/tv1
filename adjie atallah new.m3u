@@ -27,7 +27,7 @@ https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/0cVJNjp/trans7.png",TRANS'7-PREMIUM
-http://202.150.172.35:8000/play/trans7v
+http://202.150.172.35:8000/play/trans7s2
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png",GTV-PREMIUM
