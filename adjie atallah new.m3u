@@ -7,11 +7,11 @@ https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/xFs6k31/SCTV.png",SCTV-PREMIUM
-https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
+http://ch4nnel.wap.sh/lokal/sctv.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/fqv4pDb/Indosiar.png",INDOSIAR-PREMIUM
-https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
+http://tvn.x10.bz/vidio/master.m3u8 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/M8ttCDK/mnc.png",MNC TV-PREMIUM
@@ -27,7 +27,7 @@ https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/0cVJNjp/trans7.png",TRANS'7-PREMIUM
-https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
+http://202.150.172.35:8000/play/trans7v
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/n7m5vWP/gtv.png",GTV-PREMIUM
@@ -304,6 +304,9 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/x1vWs6y/disneyjunior.png", DISNEY JUNIOR
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/466
+Mi
+#EXTINF:-1 group-title="KIDS" $ExtFilter="IPTV",kidzone+s2
+http://202.150.172.35:8000/play/kidzone+s2 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -520,6 +523,9 @@ http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF: -1 group-title = "ENTERTAIMENT" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_kplus_small1.png", K +
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAIMENT" $ExtFilter="IPTV",kdrama
+http://202.150.172.35:8000/play/kdramas2
 
 #EXTINF: -1 group-title = "ENTERTAIMENT" tvg-logo = "https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png", WAKU WAKU JAPAN
 https://lnk.ec/waku2?shareext.ts
